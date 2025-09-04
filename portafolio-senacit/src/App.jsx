@@ -19,7 +19,7 @@ function App() {
       <h1>Practica de Vite + React Oscar </h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
+          La cuenta es de {count}
         </button>
         <p>
           Edita <code>src/App.jsx</code> guarda para probar HMR
