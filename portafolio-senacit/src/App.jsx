@@ -14,6 +14,7 @@ function App() {
         </a>
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
+          <div>orueba</div>
         </a>
       </div>
       <h1>Practica de Vite + React Oscar Lanza</h1>
